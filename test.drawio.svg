@@ -1,0 +1,914 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1041px" height="1071px" viewBox="-0.5 -0.5 1041 1071" content="&lt;mxfile&gt;&lt;diagram id=&quot;BFYrdzgEe_zFm5FNJCAo&quot; name=&quot;クラス図&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;w_cYIqfwBUJoJ547Ihj-&quot; name=&quot;ER図&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;GEFymGrj9YFGR5rTrhq1&quot; name=&quot;シーケンス図（Mermaid）&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;YGgBDu26DzBim88J_CVY&quot; name=&quot;画面遷移図&quot;&gt;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&lt;/diagram&gt;&lt;diagram name=&quot;画面遷移図のコピー&quot; id=&quot;MlQ1WJdqebDXDTW9yAdn&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;ZMEVRzqSTKr1OfWjX6gl&quot; name=&quot;基本&quot;&gt;7VzZcuI4FP0aP/aUwQvwyBZ6Kj2dqk7NTPLoRQYRYTFGZsnXj2xkLCwFTCIv3R14wFpsrHOvjq6OL2jGeLWfRc568Rf2AdK6ur/XjInWpa9Bj34kNYdjTadjDI418wj6rC6veISvgFXqrDaGPticdSQYIwLX55UeDkPgkbM6J4rw7rxbgNH5t66dORAqHj0HibX/Qp8ssmHYg7zhK4DzBfvqfpeNeOVkndlINgvHxzuuyphqxjjCmByPVvsxQAl6GS7H8+7eaD3dWARCUuoEdJjcP05mD72H4M/e8uXb4cfuSwbz1kExGzG7W3LIIAA+RYQVQxzSjxHYQ/JEix12/EyP9T8sVpok5tezwiErhCQ6PPEF7qykmJ+WlvLz/GFiSFp0EfZejlV3kA7ueAMbEuGXk3VMWhPQxjFGOEoHYARW8j715Frs9EVblvFqzZwvKQY4JHfOCqLkJp5jiscMkwX0WFOGRoeVuSta6YvWRzgOfeCzXqKxmP02OI48BjQ0J3/fw4E1/C/cwNFs2b2fWV8yp3eiOSAX+hnHfomxuC9grjADeAUoqLRDBJBD4PbcvR02S+anfrkj0QPmS3K/unTXnFv9wDEBgm+do1S0WxB0PU+wG/NBBTZ60ypbEBGwv4gjazXZBMr4TWflHUcWGQMsOJ6w9YqQ7wrIP4JoC70bsfcd0A9+Muz7NWIvZ1MR/DJsSleGdVJka1gCVYE+CvRUJ/0KnOn2LdPKW3jedRCch8lA6CVAMorElpAupkPWsIK+j8o40HGsnUsOhBwXoJHjvcxTrLIuPgicGJEyC0eRbvoe8EQXfjdzGyWZ22wVcxuCC7Oo7jbmBnbbmburN0jdcvowfwP6OIVcNdBHt1b6yKJMRfRhlqSPXqvoQ3ThMYUjwghRi97GIRkdt5hDDLtt4Z8lBt5gjTeQ0sLhNvxBx7dAr934CxzefAgoGuAih+OILPAchw6a5rV1U3rO4s/ZNT4pnad0L462KfS6On63f0p+t1WEh5RY+r7ZbmoRqL1OarnkCBz003AOw1tFFbkYxmEvA7S0TT4OvNVtW1wubonUiVnJbLBd21KkOirAv6CqnGBtDH4xpFSpaCXrl9cHbtBWAxhm0wYQQxp1kkBimN7A1fXWwF+MKZufAOKaq3hPxat67TBCcfVt3gji6qt4Y0VbBnbPcNqzEhRnQvNM1FfBRG9En7Sl33UNuz34FydB8/gPBPwVhqD8TrKFcWi9FATceDDs6btvk++bl38epsb0SfJQVZta2uBOGw21qa0NxtpwnNaMtJGRHIwm2lCUH+j4Cbc1RyAglzbmEdjAV8dNz04WiDWGIUmHZo00a5JcKSaUCF+zGSHfWHAuUHKfd7yioV9xB34yyh66CxaX+EXpYFjiAqbEBSwFLrBHX9djd0S+L/UlHE697ZLInqsL5v1M13gPXeeeoxf1Hk2mv1zVfKTmY9biNR9pP0vulMolnks3ecN2Vy+93VUt8aic3Gady6sUeVFouL7TlWBfU+6GSuwtGbPWin0Vz1511UL9bVT826duVEfkVkki7zVJ5LfrNlIiryWV40NkUtyoNs/komTz67HJr//Yry426ZVkk05dj/4u3eWtMqSMU+pJ7fgQpxTFl+Y5RRS/SimQEvxrSu1QyunNR4ii+HWR09+T2aGc4j8zO65Q/LXMDiX8nv3KpuUEL/kx0DsCxpqSO5SSe/Pk0hGVvavSumxlrSG740PIF1X15pdVyY821OldlaR3qBRe7Dqza+T4V6t6VZLfodQCdSaWyS0gal/qhIJKEjyURpYtmAKiUqN4a1VJhofSJbgFVhBFG8UbrEpSPNTOhebJSJQZ1AWhleR4qJ0GzRtA1BkURqLqkzyUhqNVshAt5v/2kLZxf5phTP8H&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-242-88-196-24-0">
+            <rect x="242" y="88" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-242-108-196-24-0">
+            <rect x="242" y="108" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-242-138-196-24-0">
+            <rect x="242" y="138" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-242-158-196-24-0">
+            <rect x="242" y="158" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-242-178-196-24-0">
+            <rect x="242" y="178" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-482-98-196-24-0">
+            <rect x="482" y="98" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-482-118-196-24-0">
+            <rect x="482" y="118" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-482-146-196-24-0">
+            <rect x="482" y="146" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-482-166-196-24-0">
+            <rect x="482" y="166" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-98-196-24-0">
+            <rect x="2" y="98" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-118-196-24-0">
+            <rect x="2" y="118" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-138-196-24-0">
+            <rect x="2" y="138" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-158-196-24-0">
+            <rect x="2" y="158" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-188-196-24-0">
+            <rect x="2" y="188" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-208-196-24-0">
+            <rect x="2" y="208" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-448-196-24-0">
+            <rect x="2" y="448" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-282-448-196-24-0">
+            <rect x="282" y="448" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-688-196-24-0">
+            <rect x="2" y="688" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-282-688-196-24-0">
+            <rect x="282" y="688" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-528-196-24-0">
+            <rect x="2" y="528" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-682-448-196-24-0">
+            <rect x="682" y="448" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-562-558-196-24-0">
+            <rect x="562" y="558" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-802-558-196-24-0">
+            <rect x="802" y="558" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-682-688-196-24-0">
+            <rect x="682" y="688" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-682-788-196-24-0">
+            <rect x="682" y="788" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-562-918-196-24-0">
+            <rect x="562" y="918" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-842-918-196-24-0">
+            <rect x="842" y="918" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-918-196-24-0">
+            <rect x="2" y="918" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-282-918-196-24-0">
+            <rect x="282" y="918" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-2-1048-196-24-0">
+            <rect x="2" y="1048" width="196" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-282-1048-196-24-0">
+            <rect x="282" y="1048" width="196" height="24"/>
+        </clipPath>
+    </defs>
+    <g>
+        <g>
+            <path d="M 240 90 L 240 60 L 440 60 L 440 90" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 240 90 L 240 200 L 440 200 L 440 90" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 240 90 L 440 90" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="339.5" y="79.5">
+                    SampleClass
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="240" y="90" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-242-88-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="243.5" y="104.5">
+                    - privateProp:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="240" y="110" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-242-108-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="243.5" y="124.5">
+                    - privateProp:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 240 135 L 440 135" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="240" y="140" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-242-138-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="243.5" y="154.5">
+                    + method1():string
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="240" y="160" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-242-158-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="243.5" y="174.5">
+                    + method1():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="240" y="180" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-decoration="underline" clip-path="url(#mx-clip-242-178-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="243.5" y="194.5">
+                    + staticMethod():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 480 100 L 480 60 L 680 60 L 680 100" fill="#e1d5e7" stroke="#9673a6" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+            <path d="M 480 100 L 480 188 L 680 188 L 680 100" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+            <path d="M 480 100 L 680 100" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="579.5" y="77.5">
+                    SampleAbstractClass
+                </text>
+                <text x="579.5" y="91.5">
+                    {abstract}
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="480" y="100" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-482-98-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="483.5" y="114.5">
+                    - privateProp:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="480" y="120" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-482-118-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="483.5" y="134.5">
+                    - privateProp:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 480 144 L 680 144" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="480" y="148" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-482-146-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="483.5" y="162.5">
+                    + abstractMethod():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="480" y="168" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-482-166-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="483.5" y="182.5">
+                    + method(val:string):bool
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="770" y="95" width="270" height="150" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="769.5" y="111.5">
+                    - : private
+                </text>
+                <text x="769.5" y="125.5">
+                    #: protected
+                </text>
+                <text x="769.5" y="139.5">
+                    +: public
+                </text>
+                <text x="769.5" y="153.5">
+                    ~: internal
+                </text>
+                <text x="769.5" y="167.5">
+                    イタリック:仮想関数、フィールド、プロパティ
+                </text>
+                <text x="769.5" y="181.5">
+                    フォント:Consolas
+                </text>
+                <text x="769.5" y="195.5">
+                    文字色: #555555
+                </text>
+                <text x="769.5" y="223.5">
+                    矢印：太さ2pt
+                </text>
+                <text x="769.5" y="237.5">
+                    色:#888888
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 0 100 L 0 60 L 200 60 L 200 100" fill="#d5e8d4" stroke="#82b366" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(213, 232, 212), rgb(31, 47, 30)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 0 100 L 0 230 L 200 230 L 200 100" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 0 100 L 200 100" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="99.5" y="77.5">
+                    &lt;&lt;interface&gt;&gt;
+                </text>
+                <text x="99.5" y="91.5">
+                    ISampleInterface
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="100" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-2-98-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="114.5">
+                    - privateProp:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="120" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-2-118-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="134.5">
+                    # protectedProp:int
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="140" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-2-138-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="154.5">
+                    + publicProp:int
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="160" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-2-158-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="174.5">
+                    ~ internalProp:int
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 0 185 L 200 185" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="0" y="190" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-2-188-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="204.5">
+                    + method1(arg1:string):string
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="210" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-2-208-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="224.5">
+                    - method2(arg1:int[]):bool
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 0 300 L 0 260 L 160 260 L 160 300" fill="#d5e8d4" stroke="#82b366" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(213, 232, 212), rgb(31, 47, 30)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 0 300 L 160 300" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="79.5" y="277.5">
+                    &lt;&lt;interface&gt;&gt;
+                </text>
+                <text x="79.5" y="291.5">
+                    ISampleInterface
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 240 300 L 240 260 L 400 260 L 400 300" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 240 300 L 400 300" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="319.5" y="284.5">
+                    SampleClass
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 480 300 L 480 260 L 640 260 L 640 300" fill="#e1d5e7" stroke="#9673a6" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+            <path d="M 480 300 L 640 300" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="559.5" y="277.5">
+                    SampleAbstractClass
+                </text>
+                <text x="559.5" y="291.5">
+                    {abstract}
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 217.97 432.5 L 280 432.5" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 201.97 432.5 L 209.97 427.79 L 217.97 432.5 L 209.97 437.21 Z" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 0 450 L 0 420 L 200 420 L 200 450" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 450 L 0 470 L 200 470 L 200 450" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 450 L 200 450" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="99.5" y="439.5">
+                    Company
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="450" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-2-448-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="464.5">
+                    - employees: Person[]
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 280 450 L 280 420 L 480 420 L 480 450" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 450 L 280 470 L 480 470 L 480 450" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 450 L 480 450" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="379.5" y="439.5">
+                    Person
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="280" y="450" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-282-448-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="283.5" y="464.5">
+                    + name:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 217.97 685 L 280 685" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 201.97 685 L 209.97 680.29 L 217.97 685 L 209.97 689.71 Z" fill="#888888" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(136, 136, 136), rgb(120, 120, 120)); stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 0 690 L 0 660 L 200 660 L 200 690" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 690 L 0 710 L 200 710 L 200 690" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 690 L 200 690" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="99.5" y="679.5">
+                    Car
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="690" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-2-688-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="704.5">
+                    + engine: Engine
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 280 690 L 280 660 L 480 660 L 480 690" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 690 L 280 710 L 480 710 L 480 690" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 690 L 480 690" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="379.5" y="679.5">
+                    Engine
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="280" y="690" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-282-688-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="283.5" y="704.5">
+                    + Run()
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="715" width="480" height="70" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="733.5">
+                    唯一の「全体」インスタンスが、１つの「部分」インスタンスを所属させます。
+                </text>
+                <text x="1.5" y="747.5">
+                    「全体」側を削除すると「部分」側も連鎖的に削除されます。（ライフサイクル制約）
+                </text>
+                <text x="1.5" y="761.5">
+                    TireはCarによって「占有」されています。
+                </text>
+                <text x="1.5" y="775.5">
+                    「part-of」の関係になっており、より強い集約を表します。
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 0 530 L 0 500 L 200 500 L 200 530" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 530 L 0 550 L 200 550 L 200 530" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 530 L 200 530" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="99.5" y="519.5">
+                    School
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="530" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-2-528-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="544.5">
+                    - students: Person[]
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 217.97 512.49 L 240 512.47 L 240 445 L 280 445" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 201.97 512.5 L 209.97 507.79 L 217.97 512.49 L 209.98 517.2 Z" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <rect x="0" y="550" width="440" height="60" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="570.5">
+                    複数の「全体」インスタンスが、1つの「部分」インスタンスを共有します。
+                </text>
+                <text x="1.5" y="584.5">
+                    PersonはCompanyとSchoolによって「共有」されています。
+                </text>
+                <text x="1.5" y="598.5">
+                    「part-of」の関係になっています。
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="380" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="408.5">
+                    集約
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="620" width="160" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="648.5">
+                    コンポジション
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="29.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="38.5">
+                    クラス図
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="820" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="848.5">
+                    依存
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="620" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="561.5" y="648.5">
+                    実現
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="380" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="561.5" y="408.5">
+                    汎化
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="980" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="1.5" y="1008.5">
+                    関連
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="830" width="120" height="40" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Yu Gothic&quot;" font-weight="bold" font-size="19.999999999999996px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="561.5" y="858.5">
+                    誘導可能性
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 680 450 L 680 420 L 880 420 L 880 450" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 680 450 L 680 470 L 880 470 L 880 450" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 680 450 L 880 450" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="779.5" y="439.5">
+                    Car
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="680" y="450" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-682-448-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="683.5" y="464.5">
+                    + Run():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 660 530 L 660 500.05 L 780 500.05 L 780 486.24" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 780 472.24 L 787 486.24 L 773 486.24 Z" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 560 560 L 560 530 L 760 530 L 760 560" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 560 560 L 560 580 L 760 580 L 760 560" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 560 560 L 760 560" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="659.5" y="549.5">
+                    Truck
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="560" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-562-558-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="563.5" y="574.5">
+                    + Run():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 900 530 L 900 500.05 L 780 500.05 L 780 486.24" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 780 472.24 L 787 486.24 L 773 486.24 Z" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 800 560 L 800 530 L 1000 530 L 1000 560" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 800 560 L 800 580 L 1000 580 L 1000 560" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 800 560 L 1000 560" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="899.5" y="549.5">
+                    Bus
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="800" y="560" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-802-558-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="803.5" y="574.5">
+                    + Run():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 680 690 L 680 650 L 880 650 L 880 690" fill="#d5e8d4" stroke="#82b366" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(213, 232, 212), rgb(31, 47, 30)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 680 690 L 680 710 L 880 710 L 880 690" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 680 690 L 880 690" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="779.5" y="667.5">
+                    &lt;&lt;interface&gt;&gt;
+                </text>
+                <text x="779.5" y="681.5">
+                    IShape
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="680" y="690" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" font-style="italic" clip-path="url(#mx-clip-682-688-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="683.5" y="704.5">
+                    + Draw():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 780 760 L 780 726.24" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 780 712.24 L 787 726.24 L 773 726.24 Z" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 680 790 L 680 760 L 880 760 L 880 790" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 680 790 L 680 810 L 880 810 L 880 790" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 680 790 L 880 790" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="779.5" y="779.5">
+                    Circle
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="680" y="790" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-682-788-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="683.5" y="804.5">
+                    + Draw():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 760 915 L 835.53 915" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 823.76 922 L 837.76 915 L 823.76 908" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 560 920 L 560 890 L 760 890 L 760 920" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 560 920 L 560 940 L 760 940 L 760 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 560 920 L 760 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="659.5" y="909.5">
+                    AuthController
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="560" y="920" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-562-918-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="563.5" y="934.5">
+                    + Login():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 840 920 L 840 890 L 1040 890 L 1040 920" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 840 920 L 840 940 L 1040 940 L 1040 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 840 920 L 1040 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="939.5" y="909.5">
+                    LoginView
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="840" y="920" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-842-918-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="843.5" y="934.5">
+                    + Render():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 200 915 L 275.53 915" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+            <path d="M 263.76 922 L 277.76 915 L 263.76 908" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 0 920 L 0 890 L 200 890 L 200 920" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 920 L 0 940 L 200 940 L 200 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 920 L 200 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="99.5" y="909.5">
+                    AuthController
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="920" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-2-918-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="934.5">
+                    + Login():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 280 920 L 280 890 L 480 890 L 480 920" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 920 L 280 940 L 480 940 L 480 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 920 L 480 920" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="379.5" y="909.5">
+                    AuthRepository
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="280" y="920" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-282-918-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="283.5" y="934.5">
+                    + getUserName:string
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 200 1045 L 280 1045" fill="none" stroke="#888888" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(136, 136, 136), rgb(120, 120, 120));"/>
+        </g>
+        <g>
+            <path d="M 0 1050 L 0 1020 L 200 1020 L 200 1050" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 1050 L 0 1070 L 200 1070 L 200 1050" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 0 1050 L 200 1050" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="99.5" y="1039.5">
+                    Person
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="1050" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-2-1048-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="3.5" y="1064.5">
+                    + PlayWithDog(dog:Dog):void
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 280 1050 L 280 1020 L 480 1020 L 480 1050" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 1050 L 280 1070 L 480 1070 L 480 1050" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+            <path d="M 280 1050 L 480 1050" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="379.5" y="1039.5">
+                    Dog
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="280" y="1050" width="200" height="20" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" clip-path="url(#mx-clip-282-1048-196-24-0)" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="283.5" y="1064.5">
+                    + Bark():void
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="240" y="320" width="160" height="40" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="319.5" y="344.5">
+                    SampleClass
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="480" y="320" width="160" height="40" fill="#e1d5e7" stroke="#9673a6" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(150, 115, 166), rgb(149, 119, 163));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="559.5" y="337.5">
+                    SampleAbstractClass
+                </text>
+                <text x="559.5" y="351.5">
+                    {abstract}
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="0" y="320" width="160" height="40" fill="#d5e8d4" stroke="#82b366" pointer-events="all" style="fill: light-dark(rgb(213, 232, 212), rgb(31, 47, 30)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <g fill="#555555" font-family="&quot;Consolas&quot;" text-anchor="middle" font-size="11.999999999999998px" style="fill: light-dark(rgb(85, 85, 85), rgb(164, 164, 164));">
+                <text x="79.5" y="337.5">
+                    &lt;&lt;interface&gt;&gt;
+                </text>
+                <text x="79.5" y="351.5">
+                    ISampleInterface
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
