@@ -1,0 +1,65 @@
+schemaVersion: '0.3'
+description: ENAドライバのアップデートと再起動
+parameters:
+  InstanceId:
+    type: List<AWS::EC2::Instance::Id>
+    description: (Required) The ID of the EC2 instance to update.
+mainSteps:
+  - description: Verifies the input EC2 instance is Windows.
+    name: assertInstanceIsWindows
+    action: aws:assertAwsResourceProperty
+    nextStep: describeManagedInstance
+    isCritical: true
+    isEnd: false
+    onFailure: Abort
+    inputs:
+      Service: ec2
+      Api: DescribeInstances
+      InstanceIds:
+        - '{{ InstanceId }}'
+      PropertySelector: $.Reservations[0].Instances[0].Platform
+      DesiredValues:
+        - windows
+  - description: Verifies the input EC2 instance is managed by AWS Systems Manager.
+    name: describeManagedInstance
+    action: aws:executeAwsApi
+    nextStep: updateDriver
+    isCritical: true
+    isEnd: false
+    onFailure: Abort
+    inputs:
+      Service: ssm
+      Api: DescribeInstanceInformation
+      InstanceInformationFilterList:
+        - key: InstanceIds
+          valueSet:
+            - '{{ InstanceId }}'
+    outputs:
+      - Name: PingStatus
+        Selector: $.InstanceInformationList[0].PingStatus
+  - name: updateDriver
+    action: aws:runCommand
+    nextStep: stopInstances
+    isEnd: false
+    onFailure: Abort
+    inputs:
+      DocumentName: AWS-ConfigureAWSPackage
+      InstanceIds: '{{InstanceId}}'
+      Parameters:
+        installationType: Uninstall and reinstall
+        version: 2.11.0
+        name: AwsEnaNetworkDriver
+        action: Install
+  - name: stopInstances
+    action: aws:changeInstanceState
+    nextStep: startInstances
+    isEnd: false
+    inputs:
+      InstanceIds: '{{ InstanceId }}'
+      DesiredState: stopped
+  - name: startInstances
+    action: aws:changeInstanceState
+    isEnd: true
+    inputs:
+      InstanceIds: '{{ InstanceId }}'
+      DesiredState: running
